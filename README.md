@@ -1,179 +1,221 @@
-
+<!-- ========================================================= -->
+<!--                  HEADER WAVE (DECORATIVE)                 -->
+<!-- ========================================================= -->
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:1A0508,100:DC143C&text=AAMIR%20FARHAN%20KHAN&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=BUILD.%20EXECUTE.%20EVOLVE.&descAlignY=58&descSize=16"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFFFFF,50:F3F3F3,100:DC143C&text=AAMIR%20FARHAN%20KHAN&fontColor=111111&fontSize=36&fontAlignY=38&desc=BUILD.%20EXECUTE.%20EVOLVE.&descAlignY=58&descSize=16"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:1A0508,100:DC143C&text=AAMIR%20FARHAN%20KHAN&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=BUILD.%20EXECUTE.%20EVOLVE.&descAlignY=58&descSize=16" width="100%" alt="Aamir Farhan Khan"/>
-  </picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=120&section=header&animation=fadeIn" width="100%" alt="Header wave" />
 
-  <h1>Hey there, I'm Aamir Farhan Khan</h1>
+<!-- ========================================================= -->
+<!--                    BANNER (LIGHT / DARK)                  -->
+<!-- ========================================================= -->
 
-  <h3>BCA Student | Aspiring Software Engineer | Future FAANG Engineer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_DARK_BANNER_URL]">
+  <source media="(prefers-color-scheme: light)" srcset="[YOUR_LIGHT_BANNER_URL]">
+  <img alt="Aamir Farhan Khan banner" src="[YOUR_LIGHT_BANNER_URL]" width="100%">
+</picture>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Learning+Java+and+Data+Structures;Building+Projects+and+Solving+Problems;Exploring+Full+Stack+Development;Preparing+for+Software+Engineering+Roles;One+Step+Closer+to+FAANG" alt="Typing animation"/>
-  </a>
+<br><br>
 
-  <p>
-    <img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20JAVA%20%7C%20FULL%20STACK-DC143C?style=for-the-badge&labelColor=0D0D0D" alt="Current focus"/>
-  </p>
+<!-- ========================================================= -->
+<!--                          TITLE                            -->
+<!-- ========================================================= -->
 
-  <p><i>Building skills, writing code, and improving one day at a time.</i></p>
+# 🌸 Hey there, I'm Aamir Farhan Khan 🌸
 
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-    <img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=for-the-badge&color=DC143C&labelColor=0D0D0D&label=FOLLOWERS" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]?tab=repositories">
-    <img src="https://img.shields.io/github/stars/[YOUR_GITHUB_USERNAME]?style=for-the-badge&color=DC143C&labelColor=0D0D0D&label=STARS" alt="GitHub stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- ========================================================= -->
+<!--                     ANIMATED TYPING                       -->
+<!-- ========================================================= -->
 
-</div>
-
----
-
-## 01 // ABOUT ME
-
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-I'm **Aamir Farhan Khan**, a second-year Bachelor of Computer Applications (BCA) student in Bengaluru, India.
-
-My goal is to become a strong software engineer by building solid programming fundamentals, mastering Data Structures and Algorithms, and learning how real-world applications are designed and developed.
-
-- 🎓 Pursuing BCA at Community Institute of Commerce and Management Studies.
-- 💻 Learning Java and strengthening programming fundamentals.
-- 🧠 Practicing problem-solving and beginning my DSA journey.
-- 🌐 Exploring frontend, backend, APIs, and database integration.
-- 🛠️ Building Hidayah, an Islamic learning application.
-- 🎯 Preparing for software engineering internships and eventually FAANG-level interviews.
-
-**My approach:** Learn the fundamentals, practice consistently, build projects, and improve through mistakes.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&width=180&text=AFK&fontSize=60&fontColor=FFFFFF&fontAlignY=50&color=0:050505,100:DC143C" width="180" alt="AFK monogram"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MINDSET-DISCIPLINE-DC143C?style=for-the-badge&labelColor=0D0D0D" alt="Discipline"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 // TECH STACK
-
-<div align="center">
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=java,c,html,css,git,github&theme=dark" alt="Current technologies"/>
-
-<br/><br/>
-
-**Exploring Full Stack Development**
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,firebase,mongodb,mysql&theme=dark" alt="Technologies to explore"/>
-
-<br/><br/>
-
-<sub>These icons represent my learning journey and areas of exploration, not a claim of professional proficiency in every technology.</sub>
-
-</div>
-
----
-
-## 03 // FEATURED PROJECT
-
-<div align="center">
-
-### Hidayah — Islamic Learning App
-
-<img src="https://img.shields.io/badge/PROJECT-IN%20PROGRESS-DC143C?style=for-the-badge&labelColor=0D0D0D" alt="Project status"/>
-
-</div>
-
-Hidayah is an application I am developing to help people learn about Islam through Quranic content and authentic Hadith.
-
-**Project goals**
-- Organize Islamic learning content in an accessible format.
-- Explore AI integration for a more interactive learning experience.
-- Learn how authentication, databases, and application architecture work.
-- Improve my practical development and debugging skills.
-
-**Technologies explored:** Lovable, Firebase, and AI API integration.
-
-**Current status:** Work in progress. Planned features and integrations are not represented as completed functionality.
-
-<div align="center">
-
-<a href="https://github.com/[YOUR_GITHUB_USERNAME]/hidayah">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="View Hidayah project"/>
+<a href="https://github.com/aamirfarhan-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=50&lines=BCA+Student+from+Bengaluru+%F0%9F%8E%93;Learning+Java+%26+Data+Structures+%26+Algorithms+%E2%98%95;Building+HIDAYAH%2C+an+Islamic+learning+app+%F0%9F%8C%99;On+a+180-day+mission+to+become+job-ready+%F0%9F%9A%80;Consistency+beats+motivation+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
-</div>
+<br><br>
 
----
+<!-- ========================================================= -->
+<!--                         BADGES                            -->
+<!-- ========================================================= -->
 
-## 04 // MY LEARNING ROADMAP
-
-| Area | Objective |
-|---|---|
-| Java | Strengthen fundamentals, OOP, and writing clean code |
-| DSA | Learn arrays, strings, searching, sorting, recursion, trees, graphs, and more |
-| Problem Solving | Practice coding questions and understand multiple approaches |
-| Full Stack | Build applications with frontend, backend, APIs, and databases |
-| Git & GitHub | Improve version control and project documentation |
-| Interview Preparation | Develop CS fundamentals, coding ability, and communication |
-
----
-
-## 05 // GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF3030&icon_color=DC143C&text_color=E5E5E5" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF3030&text_color=E5E5E5" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=dark&hide_border=true&background=0D0D0D&ring=DC143C&fire=FF3030&currStreakLabel=FF3030&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0D0D0D&color=E5E5E5&line=DC143C&point=FF3030&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity"/>
+<p align="center">
+  <a href="https://github.com/aamirfarhan-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/aamirfarhan-dev?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=1a1a1a&color=FF69B4" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/aamirfarhan-dev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/aamirfarhan-dev?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=1a1a1a&color=FF69B4" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/aamirfarhan-dev">
+    <img src="https://komarev.com/ghpvc/?username=aamirfarhan-dev&style=for-the-badge&label=Profile+Views&labelColor=1a1a1a&color=FF69B4" alt="Profile views" />
+  </a>
+</p>
 
 </div>
 
----
+<br>
 
-## 06 // CONTRIBUTION SNAKE
+<!-- ========================================================= -->
+<!--                        ABOUT ME                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<p>Every contribution represents another step in the journey.</p>
+## 💖 About Me
 
-<img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+
+<br>
+
+👋 Hi! I'm **Aamir Farhan Khan**, a **2nd-year BCA student** based in **Bengaluru, India** 📍
+
+🎓 Studying BCA at **Community Institute of Commerce & Management Studies** (2025 – 2028)
+
+🔭 Currently building **[HIDAYAH](https://github.com/aamirfarhan-dev/hidayah-app)**, an Islamic learning app with Quranic verses, authentic Hadith and structured lessons
+
+🌱 Currently learning **Java** and **Data Structures & Algorithms**
+
+🎯 Goal: become job-ready in 180 days and grow toward top product companies
+
+🤝 Open to collaborate on **beginner-friendly Java projects** and **learning-focused apps**
+
+💬 Ask me about **Java basics, my BCA journey, or HIDAYAH**
+
+<br>
+
+  </td>
+    <td width="35%" align="center" valign="middle">
+
+<img src="[YOUR_IMAGE_OR_GIF_URL]" alt="Aamir Farhan Khan" width="100%" style="border-radius: 20px;" />
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🚀 Current Focus
+
+<table align="center">
+  <tr>
+    <th align="center">Focus</th>
+    <th align="center">Status</th>
+    <th align="center">Where</th>
+  </tr>
+  <tr>
+    <td align="center">☕ Java + DSA practice</td>
+    <td align="center">🔄 In progress</td>
+    <td align="center"><a href="https://github.com/aamirfarhan-dev/java-dsa-practice">java-dsa-practice</a></td>
+  </tr>
+  <tr>
+    <td align="center">🌙 HIDAYAH (Islamic learning app)</td>
+    <td align="center">📝 Planning &amp; prototyping</td>
+    <td align="center"><a href="https://github.com/aamirfarhan-dev/hidayah-app">hidayah-app</a></td>
+  </tr>
+  <tr>
+    <td align="center">🎓 BCA 2nd-year studies</td>
+    <td align="center">🔄 In progress</td>
+    <td align="center">College</td>
+  </tr>
+</table>
+
+<sub>📖 HIDAYAH content will use only verified Quran and authentic Hadith sources, with scholar review before release.</sub>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                        TECH STACK                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<sub>**Learning (basics)**</sub>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,c,html,mysql&perline=4&theme=dark" alt="Core Skills" />
+</a>
+
+<br><br>
+
+<sub>**Tools &amp; Platforms**</sub>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode&perline=4&theme=dark" alt="Tools" />
+</a>
+
+<br><br>
+
+<sub>**Also working with:** Lovable (prototyping) • AI APIs (planned for HIDAYAH)</sub>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  GITHUB STATS (PINK THEME)                -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 📊 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=aamirfarhan-dev&theme=transparent&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&currStreakNum=F8BBD0&sideLabels=FF69B4&sideNums=F8BBD0&dates=F8BBD0&stroke=F8BBD0" alt="GitHub Streak" />
+
+<br><br>
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamirfarhan-dev&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0&area=true&area_color=FF69B4&hide_border=true&title_color=FF69B4" alt="Contribution Activity Graph" width="95%" />
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION SNAKE                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aamirfarhan-dev/aamirfarhan-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aamirfarhan-dev/aamirfarhan-dev/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aamirfarhan-dev/aamirfarhan-dev/output/github-snake.svg" width="95%">
+</picture>
 
 </div>
 
 <!--
-SETUP:
-Create .github/workflows/snake.yml in your profile repository.
+=========================================================
+  GITHUB ACTION FOR THE SNAKE
+  Create the file: .github/workflows/snake.yml
+  Then run it once from the "Actions" tab (Run workflow).
+  It publishes the SVGs to a branch named "output".
+=========================================================
 
-name: Generate Contribution Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -181,67 +223,75 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=DC143C
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Commit the workflow and run it through GitHub Actions.
 -->
 
----
+<br>
 
-## 07 // CONNECT WITH ME
+<!-- ========================================================= -->
+<!--                         CONNECT                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-DC143C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn"/>
-</a>
+## 🌐 Let's Connect
 
-<a href="https://x.com/[YOUR_X_USERNAME]">
-<img src="https://img.shields.io/badge/X-FOLLOW-DC143C?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D" alt="X"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/aamirfarhandev">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aamirfarhan-dev">
+    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:aamirfarhan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Optional: uncomment and fill in only the ones you actually use
+  <a href="https://x.com/[YOUR_X_USERNAME]">
+    <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@[YOUR_TIKTOK_USERNAME]">
+    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://youtube.com/@[YOUR_YOUTUBE_HANDLE]">
+    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  -->
+</p>
 
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME]/">
-<img src="https://img.shields.io/badge/Instagram-FOLLOW-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D0D" alt="Instagram"/>
-</a>
+<br>
 
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-<img src="https://img.shields.io/badge/TikTok-FOLLOW-DC143C?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D0D0D" alt="TikTok"/>
-</a>
-
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-<img src="https://img.shields.io/badge/YouTube-SUBSCRIBE-DC143C?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D0D0D" alt="YouTube"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-<img src="https://img.shields.io/badge/Email-CONTACT-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" alt="Email"/>
-</a>
+<sub>✨ Thanks for stopping by, don't forget to leave a ⭐ ✨</sub>
 
 </div>
 
----
+<br>
+
+<!-- ========================================================= -->
+<!--                  CAPSULE RENDER FOOTER                    -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<h3>DISCIPLINE OVER MOTIVATION.</h3>
-
-<p>Learn. Practice. Build. Repeat.</p>
-
-<p><b>The goal isn't just to get into FAANG. It's to become the engineer who deserves to be there.</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:1A0508,100:050505&height=120&section=footer" width="100%" alt="Dark Venom footer"/>
-
-<sub>ATHLETE OS MINDSET — BUILD WITH INTENT. IMPROVE WITH CONSISTENCY.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=140&section=footer&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Footer wave" />
 
 </div>
