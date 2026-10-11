@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aamir Farhan Khan 👋
 
-<!--
-**aamirfarhan-dev/aamirfarhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student in Bengaluru, learning Java and Data Structures & Algorithms
+and building my first full project.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🕌 **HIDAYAH**: an Islamic learning app built on verified Quran and Hadith sources (in planning)
+- ☕ Practising Java and DSA daily in [java-dsa-practice](https://github.com/aamirfarhan-dev/java-dsa-practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+Java · DSA · SQL · C · HTML
+
+## Connect
+- LinkedIn: [linkedin.com/in/aamirfarhandev](https://linkedin.com/in/aamirfarhandev)
+- Email: aamirfarhan.dev@gmail.com
