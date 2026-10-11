@@ -1,239 +1,34 @@
-<!-- ========================================================= -->
-<!--                    BANNER (LIGHT / DARK)                  -->
-<!-- ========================================================= -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_DARK_BANNER_URL]">
-  <source media="(prefers-color-scheme: light)" srcset="[YOUR_LIGHT_BANNER_URL]">
-  <img alt="[YOUR_NAME] banner" src="[YOUR_LIGHT_BANNER_URL]" width="100%">
-</picture>
-
-<br><br>
-
-<!-- ========================================================= -->
-<!--                          TITLE                            -->
-<!-- ========================================================= -->
-
-# 🌸 Hey there, I'm [YOUR_NAME] 🌸
-
-<!-- ========================================================= -->
-<!--                     ANIMATED TYPING                       -->
-<!-- ========================================================= -->
-
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=50&lines=[YOUR_TAGLINE_1];[YOUR_TAGLINE_2];[YOUR_TAGLINE_3];[YOUR_TAGLINE_4]" alt="Typing SVG" />
-</a>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         BADGES                            -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-    <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=1a1a1a&color=FF69B4" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-    <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=1a1a1a&color=FF69B4" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&label=Profile+Views&labelColor=1a1a1a&color=FF69B4" alt="Profile views" />
-  </a>
-</p>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                        ABOUT ME                           -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 💖 About Me
-
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-
-<br>
-
-👋 Hi! I'm **[YOUR_NAME]**, a **[YOUR_ROLE]** based in **[YOUR_LOCATION]**.
-
-🔭 I'm currently working on **[YOUR_CURRENT_PROJECT]**
-
-🌱 I'm currently learning **[YOUR_LEARNING_TOPIC]**
-
-🤝 I'm looking to collaborate on **[YOUR_COLLAB_INTEREST]**
-
-💬 Ask me about **[YOUR_TOPICS]**
-
-⚡ Fun fact: **[YOUR_FUN_FACT]**
-
-<br>
-
-  </td>
-    <td width="35%" align="center" valign="middle">
-
-<img src="[YOUR_IMAGE_OR_GIF_URL]" alt="[YOUR_NAME]" width="100%" style="border-radius: 20px;" />
-
-  </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                        TECH STACK                         -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<!-- Edit the list after "i=" with any icon IDs from https://skillicons.dev -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=[SKILL_1],[SKILL_2],[SKILL_3],[SKILL_4],[SKILL_5],[SKILL_6],[SKILL_7],[SKILL_8]&perline=8&theme=dark" alt="My Skills" />
-</a>
-
-<br><br>
-
-<!-- Optional second row -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=[SKILL_9],[SKILL_10],[SKILL_11],[SKILL_12],[SKILL_13],[SKILL_14],[SKILL_15],[SKILL_16]&perline=8&theme=dark" alt="More Skills" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                  GITHUB STATS (PINK THEME)                -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 📊 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=transparent&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&currStreakNum=F8BBD0&sideLabels=FF69B4&sideNums=F8BBD0&dates=F8BBD0&stroke=F8BBD0" alt="GitHub Streak" />
-
-<br><br>
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0&area=true&area_color=FF69B4&hide_border=true&title_color=FF69B4" alt="Contribution Activity Graph" width="95%" />
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                     -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" width="95%">
-</picture>
-
-</div>
-
-<!--
-=========================================================
-  GITHUB ACTION FOR THE SNAKE
-  Create the file: .github/workflows/snake.yml
-  Then run it once from the "Actions" tab (Run workflow).
-  It publishes the SVGs to a branch named "output".
-=========================================================
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         CONNECT                           -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/[YOUR_X_USERNAME]">
-    <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://youtube.com/@[YOUR_YOUTUBE_HANDLE]">
-    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br>
-
-<sub>✨ Thanks for stopping by, don't forget to leave a ⭐ ✨</sub>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                  CAPSULE RENDER FOOTER                    -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=140&section=footer&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Footer wave" />
-
-</div>
+Act as an expert GitHub profile designer. Create a complete, production-ready README.md for my GitHub profile repository.
+Make it modern, aesthetic, centered, and visually stunning using Markdown + HTML.
+
+DESIGN THEME: "Athlete OS – Dark Venom"
+Style: premium, athletic, tactical HUD. Deep black backgrounds, dark charcoal surfaces, aggressive red accents, white and muted grey text.
+Palette (use only these):
+- Background / deep black: #0A0A0B
+- Surface / dark charcoal: #16171A
+- Elevated surface / borders: #23252A
+- Accent / aggressive red: #E10600
+- Accent hover / glow: #FF1E1E
+- Text primary: #FFFFFF
+- Text muted: #9A9CA3
+Avoid completely: blue, green, purple, orange, and pink. Where a multi-colour element is needed (charts, graphs, skill icons), use only red-to-grey tonal steps.
+
+Include:
+- Responsive light/dark banner () styled in Dark Venom (black/charcoal background with red accent lines, tactical HUD feel), with "Athlete OS" branding
+- Large centered title: "Hey there, I'm [YOUR_NAME]"
+- Animated typing text (readme-typing-svg) in red (#E10600) on a transparent/black background, with lines such as "[YOUR_ROLE]", "Building Athlete OS", "[YOUR_TAGLINE]"
+- Red GitHub badges (followers, stars, views) using colour E10600 and a dark charcoal label background (16171A)
+- About Me section using an HTML table (65% text, 35% image), mentioning Athlete OS: "[ATHLETE_OS_DESCRIPTION]", "[YOUR_CURRENT_PROJECT]", "[YOUR_FOCUS_AREAS]"
+- Centered Tech Stack using Skill Icons (dark theme), with a short heading like "Tech Stack: Athlete OS Toolkit"
+- GitHub Streak + Activity Graph with a Dark Venom theme: background 0A0A0B, border E10600, ring/fire/currStreakNum accents FF1E1E, text FFFFFF, muted labels 9A9CA3, graph line E10600, point FF1E1E
+- Contribution Snake section with a GitHub Action comment, using a red snake (#E10600) and dark charcoal grid cells (#16171A / #23252A)
+- Connect section with LinkedIn, X, Instagram, TikTok, YouTube & Email badges, all in red/black (badge colour 0A0A0B or 16171A, logoColor E10600 or FFFFFF, border/accent E10600)
+- Red Capsule Render waving footer using a black-to-red gradient (0A0A0B → E10600 → FF1E1E), with "Athlete OS" text if suitable
+
+Requirements:
+- Premium layout
+- Perfect spacing
+- Fully centered
+- Replace everything with placeholders ([YOUR_NAME], [YOUR_USERNAME], [YOUR_ROLE], [ATHLETE_OS_DESCRIPTION], etc.)
+- Keep all sections, order, structure, and functionality exactly as listed; only the colour theme and Athlete OS branding apply
+- Output ONLY the README.md inside one Markdown code block.
