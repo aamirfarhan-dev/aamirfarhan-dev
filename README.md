@@ -10,8 +10,8 @@
 <!-- ========================================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_DARK_BANNER_URL]">
-  <source media="(prefers-color-scheme: light)" srcset="[YOUR_LIGHT_BANNER_URL]">
+  <source media="(prefers-color-scheme: light)" srcset="[YOUR_DARK_BANNER_URL]">
+  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_LIGHT_BANNER_URL]">
   <img alt="Aamir Farhan Khan banner" src="[YOUR_LIGHT_BANNER_URL]" width="100%">
 </picture>
 
